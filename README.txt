@@ -1,5 +1,6 @@
 git clone <this repo>     - to pull the repository onto local storage.
-git branch feature/*your branch title*
+git checkout Development
+git branch -b feature/*your branch title*
 git checkout feature/*your branch title*
 
 
